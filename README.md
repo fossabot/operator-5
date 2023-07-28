@@ -1,6 +1,7 @@
 # Konveyor Operator
 
 [![Operator Repository on Quay](https://quay.io/repository/konveyor/tackle2-operator/status "Operator Repository on Quay")](https://quay.io/repository/konveyor/tackle2-operator) [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/konveyor/tackle2-operator/pulls) [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7355/badge)](https://bestpractices.coreinfrastructure.org/projects/7355)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Foperator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Foperator?ref=badge_shield)
 
 The Konveyor Operator fully manages the deployment and life cycle of Konveyor on Kubernetes and OpenShift.
 
@@ -187,3 +188,7 @@ See the [Konveyor Documentation](https://konveyor.github.io/konveyor/) for detai
 
 ## Code of Conduct
 Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Foperator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Foperator?ref=badge_large)
